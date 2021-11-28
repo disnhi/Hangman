@@ -1,0 +1,13 @@
+bulldog
+foxhound
+dalmatian
+greyhound
+keeshond
+papillon
+pekingese
+rottweiler
+schipperke
+schnauzer
+retriever
+shepherd
+wolfdog
