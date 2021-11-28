@@ -1,0 +1,10 @@
+affenpinscher
+bloodhound
+chihuahua
+dachshund
+bullmastiff
+komondor
+newfoundland
+otterhound
+pomeranian
+sheepdog
